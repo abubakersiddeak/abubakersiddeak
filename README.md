@@ -1,6 +1,6 @@
 Hi, I'm Abubakar Siddik Zisan.....
 
-💻 I’m a Full Stack Developer | 💡 Lifelong Learner | 🌐 Web Enthusiast  
+💻 I’m a Web Developer | 💡 Lifelong Learner | 🌐 Web Enthusiast  
 🎯 Currently focusing on: `Next.js`, `MongoDB`, `Tailwind CSS`, `Framer Motion`
 
 ---
