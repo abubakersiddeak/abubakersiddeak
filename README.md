@@ -22,9 +22,21 @@ Hi, I'm Abubakar Siddik Zisan.....
 ---
 
 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubaker-siddik-zisan)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abubakar.siddeak)
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devzisan.vercel.app/)
+### 🔹 LinkedIn  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubaker-siddik-zisan)  
+🔗 https://linkedin.com/in/abubaker-siddik-zisan  
+
+---
+
+### 🔹 Facebook  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abubakar.siddeak)  
+🔗 https://facebook.com/abubakar.siddeak  
+
+---
+
+### 🔹 Portfolio  
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devzisan.vercel.app/)  
+🔗 https://devzisan.vercel.app/
 
 
 
