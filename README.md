@@ -53,6 +53,5 @@ I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building m
 
 ---
 
-## Pinned Projects  
-👉 GitHub → Go to repository → Pin
+
 
