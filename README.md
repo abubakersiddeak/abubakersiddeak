@@ -1,43 +1,58 @@
-Hi, I'm Abubakar Siddik Zisan.....
+<!-- Banner Image -->
+<img src="./Navy Blue Geometric Technology LinkedIn Banner.png" width="100%" />
 
-💻 I’m a Web Developer | 💡 Lifelong Learner | 🌐 Web Enthusiast  
-🎯 Currently focusing on: `Next.js`, `MongoDB`, `Tailwind CSS`, `Framer Motion`
-
----
-
-🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-161B22?style=flat&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat&logo=next.js) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-161B22?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-161B22?style=flat&logo=mongodb)
+# 👋 Hi, I'm Abubakar Siddik Zisan  
+### Full-Stack Web Developer 
 
 ---
 
-📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakersiddeak&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakersiddeak&layout=compact&theme=github_dark&hide_border=true)
+## About Me  
+I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building modern, responsive, and user-friendly web applications. I love working with React, Next.js, and the MERN stack.
 
 ---
 
-🔗 Let's Connect!
-### 🔹 LinkedIn  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubaker-siddik-zisan)  
-🔗 https://linkedin.com/in/abubaker-siddik-zisan  
+## Current Activities
+- I’m learning and exploring **Next.js advanced concepts**
+- Building modern UI/UX with **Tailwind CSS + Framer Motion**
+- Working on real-world MERN stack projects 
 
 ---
 
-### 🔹 Facebook  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abubakar.siddeak)  
-🔗 https://facebook.com/abubakar.siddeak  
+## Skills & Technologies  
+<p align="left">
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,tailwind" />
+
+<!-- Authentication -->
+<img src="https://skillicons.dev/icons?i=auth0,firebase" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,linux,kali,vscode,figma,gimp,ps,inkscape" />
+
+</p>
 
 ---
 
-### 🔹 Portfolio  
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devzisan.vercel.app/)  
-🔗 https://devzisan.vercel.app/
+## Connect With Me  
+<p align="left">
+<a href="https://www.facebook.com/abubakar.siddeak/"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+<a href="mailto:abubakersiddeak@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="https://www.linkedin.com/in/abubaker-siddik-zisan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+</p>
 
+---
 
+## GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakersiddeak&layout=compact" height="150"/>
+</p>
 
+---
+
+## Pinned Projects  
+👉 GitHub → Go to repository → Pin
 
