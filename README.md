@@ -47,9 +47,17 @@ I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building m
 ---
 
 ## GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakersiddeak&layout=compact" height="150"/>
+<p align="center">
+
+<!-- Overall Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=abubakersiddeak&show_icons=true&count_private=true&theme=tokyonight&hide_title=false&hide_rank=false&hide=contribs" height="160" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakersiddeak&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" height="160" />
+
+
 </p>
+
 
 ---
 
