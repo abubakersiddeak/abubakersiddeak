@@ -25,13 +25,13 @@ I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building m
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,tailwind" />
 
 <!-- Authentication -->
-<img src="https://skillicons.dev/icons?i=auth0,firebase" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,linux,kali,vscode,figma,gimp,ps,inkscape" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,kali,vscode,notion,figma,ps" />
 
 </p>
 
@@ -39,7 +39,7 @@ I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building m
 
 ## Connect With Me  
 <p align="left">
-<a href="https://www.facebook.com/abubakar.siddeak/"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+<a href="https://www.facebook.com/abubakar.siddeak/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/></a>
 <a href="mailto:abubakersiddeak@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 <a href="https://www.linkedin.com/in/abubaker-siddik-zisan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 </p>
