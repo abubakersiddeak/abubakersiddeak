@@ -47,7 +47,7 @@ I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building m
 ---
 
 ## GitHub Stats
-<p align="center">
+<p align="left">
 
 <!-- Overall Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=abubakersiddeak&show_icons=true&count_private=true&theme=tokyonight&hide_title=false&hide_rank=false&hide=contribs" height="160" />
@@ -59,7 +59,6 @@ I'm a passionate Full-Stack Web Developer from Bangladesh, focused on building m
 </p>
 
 
----
 
 
 
